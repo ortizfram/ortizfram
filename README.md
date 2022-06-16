@@ -1,5 +1,6 @@
-## Hii I'm Franco Ortiz, backend dev!
-
+# Hii I'm Franco Ortiz!
+  
+ ## ✋Hi im Franco Jr. Data Scientist, Frontend Dev ,Entuthiastic programmer     
  <!-- stats -->
 <div align="center">
   <a href="https://github.com/ortizfram">
@@ -20,8 +21,7 @@
  <!-- gif  = https://picrew.me/ -->
  
 </div>
-  
- Hi im Franco and i'm a Web UX IU Developer                                                                                                                                           
+                                                                                                                                       
  
 <div> 
  
