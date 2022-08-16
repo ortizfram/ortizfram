@@ -1,6 +1,9 @@
 # Hii I'm Franco Ortiz!
   
- ## ✋Hi im Franco Jr. Data Scientist, Frontend Dev ,Entuthiastic programmer     
+# Jr. Data Engineer
+ ### 👉 Project: Design a store database https://gist.github.com/ortizfram/115771fba59c3a0e5afc40fa0fb59aa9
+### 👉 Project: Data dig Marvels Queries https://gist.github.com/ortizfram/0193243ed8376f61548720a9635dc57f
+### 👉 Project: notes app Data Set SQL https://gist.github.com/ortizfram/45c493b2812ddc05dccdbfbae62d6bfd
  <!-- stats -->
 <div align="center">
   <a href="https://github.com/ortizfram">
@@ -22,13 +25,8 @@
  
 </div>
                                                                                                                                        
- 
 <div> 
  
-  <a href="https://instagram.com/melon_isa_gorilla" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
   <a href = "mailto:ortizfranco48@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
- 
  
 </div>
