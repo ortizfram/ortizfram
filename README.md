@@ -1,14 +1,10 @@
 # Hii I'm Franco Ortiz!
 #### CONTACT ME:
-📬
-
-ortizfranco48@yahoo.com
-
-ortizfranco48@gmail.com
+📬 ortizfranco48@yahoo.com
 
 📱+54 9 261 3005 849
 
-https://www.linkedin.com/in/ortizfranco-/
+🔗 https://www.linkedin.com/in/ortizfranco-/
   
 # Jr. Data Engineer
 ### 👉 Project: Design a store database https://gist.github.com/ortizfram/115771fba59c3a0e5afc40fa0fb59aa9
