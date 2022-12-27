@@ -8,7 +8,7 @@
 🔗 https://www.linkedin.com/in/ortizfranco-/
  </div><br>
  
-  # Jr. Data Engineer
+  # Jr. Data Scientist
 ### 👉 Project: Design a store database https://gist.github.com/ortizfram/115771fba59c3a0e5afc40fa0fb59aa9
 ### 👉 Project: Data dig Marvels Queries https://gist.github.com/ortizfram/0193243ed8376f61548720a9635dc57f
 ### 👉 Project: notes app Data Set SQL https://gist.github.com/ortizfram/45c493b2812ddc05dccdbfbae62d6bfd
