@@ -1,15 +1,12 @@
 # Hii I'm Franco Ortiz!
-#### CONTACT ME:
+#### **CONTACT ME**:
 <div style="display: inline_block" align="center">
+<a href="https://www.linkedin.com/in/ortizfranco-" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="114"></a>
+  
 📬 ortizfranco48@yahoo.com
 
 📱+54 9 261 3005 849
-
-🔗 https://www.linkedin.com/in/ortizfranco-/
-<div> 
-  <a href = "mailto:ortizfranco48@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
- </div><br>
+<br>
  
   # Jr. Data Scientist
  <!-- stats -->
@@ -19,4 +16,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ortizfram&layout=compact&langs_count=7&theme=merko"/>
 </div>
                   
+
 
