@@ -1,4 +1,4 @@
-<p>Hi I'm<strong> Franco Ortiz</strong> !<p/> 🇦🇷 🇦🇷 🇦🇷 
+<p>Hi I'm<strong> Franco Ortiz</strong> ! 🇦🇷 🇦🇷 🇦🇷 <p/> 
 
 ## Jr. Data Scientist 👨‍🔬 🖥️
 #### **CONTACT ME**:
