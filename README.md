@@ -1,5 +1,5 @@
-# Hii I'm Franco Ortiz! 
-
+Hi I'm ***Franco Ortiz 🇦🇷***! 
+## Jr. Data Scientist 👨‍🔬 🖥️
 #### **CONTACT ME**:
 <!-- contact --> 
 <div style="display: inline_block" align="center">
@@ -13,7 +13,7 @@
     <img src="https://github.com/ortizfram/ortizfram/blob/main/analize%20this.gif" align="right" widt=200px>
   </div>
 </div>
-# Jr. Data Scientist
+
 <!-- stats -->
 <div align="center">
   <a href="https://github.com/ortizfram">
