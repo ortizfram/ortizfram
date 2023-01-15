@@ -1,7 +1,6 @@
 # Hii I'm Franco Ortiz! 
 
 #### **CONTACT ME**:
-
 <!-- contact --> 
 <div style="display: inline_block" align="center">
 <a href="https://www.linkedin.com/in/ortizfranco-" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="114"></a>
