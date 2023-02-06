@@ -1,6 +1,3 @@
-<p>Hi I'm<strong> Franco Ortiz</strong> ! 🇦🇷 🇦🇷 🇦🇷 <p/> 
-
-## Jr. Data Scientist 👨‍🔬 
 <!--   my-icons -->
 ![GitHub User's stars](https://img.shields.io/github/stars/ortizfram?color=green&logo=GitHub&style=flat-square) ![GitHub followers](https://img.shields.io/github/followers/ortizfram?color=green&logo=GitHUb&style=flat-square)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ortizrfram.ortizrfram" alt="visitors"/>   
@@ -8,6 +5,7 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Franco+Ortiz;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning;Data+Scientist+🔬;Machine+learning+enthusiast;)](https://git.io/typing-svg)
 
+# Jr. Data Scientist 👨‍🔬 
 <!-- CONTACT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
