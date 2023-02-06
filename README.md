@@ -1,6 +1,17 @@
 <p>Hi I'm<strong> Franco Ortiz</strong> ! 🇦🇷 🇦🇷 🇦🇷 <p/> 
 
 ## Jr. Data Scientist 👨‍🔬 🖥️
+
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/ortizfram/ortizrfam"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/ortizfram/ortizfram/stargazers"><img src="https://img.shields.io/github/stars/ortizfram/ortizfram.svg?logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ortizrfram.ortizrfram" alt="visitors"/>   
+</p>
+
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Franco+Ortiz;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning;Data+Scientist+🔬;Machine+learning+enthusiast;)](https://git.io/typing-svg)
+
 #### **CONTACT ME**:
 <!-- contact --> 
 <div style="display: inline_block" align="center">
