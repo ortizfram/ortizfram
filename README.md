@@ -30,11 +30,9 @@
 
 <!-- gif 1 --> 
 <h2>"Never let computers know that you're in a hurry"</h2>
-<div align="right" style="display: inline_block">
-    <img src="https://github.com/ortizfram/ortizfram/blob/main/shut.gif" align="right" widt=50px><img src="https://github.com/ortizfram/ortizfram/blob/main/smile.gif" align="right" widt=50px>
-</div>
 
-</div>
+<img src="https://github.com/ortizfram/ortizfram/blob/main/shut.gif" align="right" widt=50px>
+
 
 
 
