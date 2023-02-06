@@ -30,8 +30,10 @@
 
 <!-- gif 1 --> 
 <h2>"Never let computers know that you're in a hurry"</h2>
+<p align="left">
+  <img src="https://github.com/ortizfram/ortizfram/blob/main/shut.gif" />
+</p>
 
-<img src="https://github.com/ortizfram/ortizfram/blob/main/shut.gif" align="right" widt=50px>
 
 
 
