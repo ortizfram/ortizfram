@@ -17,7 +17,7 @@
 ### :mailbox: Reach me out!
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5492613005849)
-[![Lnkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ortizfranco-/)
+[![Lnkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ortizfram/)
 [![Gmail Badge](https://img.shields.io/badge/-ortizfranco48@yahoo.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:ortizfranco48@yahoo.com)](mailto:ortizfranco48@yahoo.com)
 
 <!-- Languages -->
