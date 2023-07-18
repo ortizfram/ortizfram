@@ -5,7 +5,7 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Franco+Ortiz;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning;Data+Scientist+🔬;Machine+learning+enthusiast;)](https://git.io/typing-svg)
 
-# Full Stack Developer with React 💾 
+# Python Full Stack Developer 💾 
 <!-- CONTACT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
