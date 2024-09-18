@@ -5,7 +5,7 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Franco+Ortiz;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning;Data+Scientist+🔬;Machine+learning+enthusiast;)](https://git.io/typing-svg)
 
-# Nodejs Back-End developer MERN 💾 
+# Nodejs Back-End dev 💾 
 <!-- CONTACT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -61,7 +61,6 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ortizfram?cardType=level-alternate&theme=ocean-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!-- gif 1 --> 
-<h2>"Never let computers know that you're in a hurry"</h2>
 <p align="left">
   <img src="https://github.com/ortizfram/ortizfram/blob/main/shut.gif" />
 </p>
